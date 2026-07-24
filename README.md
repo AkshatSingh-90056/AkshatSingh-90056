@@ -69,10 +69,11 @@
 
 <!-- 3D City Contrib Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D GitHub City Contribution Graph" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-season-animate.svg">
+  <img alt="3D GitHub City Contribution Graph" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-season-animate.svg">
 </picture>
+
 
 <br>
 
