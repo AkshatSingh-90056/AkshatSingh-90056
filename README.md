@@ -69,4 +69,8 @@
 </div>
 
 
-![My Space Shooter Game](https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/game.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D GitHub City Contribution Graph" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
