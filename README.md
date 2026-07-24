@@ -1,7 +1,5 @@
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AkshatSingh-90056&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
   <h1>Hi there, I'm Akshat Singh 👋</h1>
   <h3>Software Developer | AI Enthusiast | Systems Programmer</h3>
   <p>I build intelligent tools, interactive simulations, and efficient system utilities. I am passionate about turning complex algorithms into clean, production-ready code.</p>
@@ -69,8 +67,18 @@
 </div>
 
 
+<!-- 3D City Contrib Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
   <img alt="3D GitHub City Contribution Graph" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+<br>
+
+<!-- Classic Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake.svg">
 </picture>
