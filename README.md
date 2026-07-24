@@ -67,8 +67,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+![My Space Shooter Game](https://raw.githubusercontent.com/AkshatSingh-90056/AkshatSingh-90056/main/game.gif)
