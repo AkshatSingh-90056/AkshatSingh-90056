@@ -13,7 +13,7 @@
 - **Currently Mastering:** Java Object-Oriented Programming (OOP), Data Structures & Algorithms, Operating Systems, and Cyber Security.
 - **My Philosophy:** I believe in learning by doing. Whether it's building a 3D raycasting engine from scratch or developing an AI browser extension, I tackle projects that force me to understand the underlying mechanics of the code.
 - **Interests:** Experimenting with low-level rendering engines, analyzing system performance, and automating repetitive tasks in Linux.
-- **Contact:** [Insert Professional Email Here]
+- **Contact:** [vs22022005@gmail.com]
 
 ## Tech Stack & Tools
 
