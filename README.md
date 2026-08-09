@@ -13,7 +13,7 @@
 - **Currently Mastering:** Java Object-Oriented Programming (OOP), Data Structures & Algorithms, Operating Systems, and Cyber Security.
 - **My Philosophy:** I believe in learning by doing. Whether it's building a 3D raycasting engine from scratch or developing an AI browser extension, I tackle projects that force me to understand the underlying mechanics of the code.
 - **Interests:** Experimenting with low-level rendering engines, analyzing system performance, and automating repetitive tasks in Linux.
-- **Contact:** [vs22022005@gmail.com]
+- **Email:** [shrinetakshat@gmail.com]
 
 ## Tech Stack & Tools
 
@@ -38,19 +38,19 @@
 ## Featured Projects
 
 ### AI & Browser Architecture
-* **[Astra AI](https://github.com/AkshatSingh-90056)** — An advanced, feature-rich artificial intelligence application designed for intelligent task automation and natural language processing. 
-* **[Advanced Bookmark Extension](https://github.com/AkshatSingh-90056)** — A lightweight, highly optimized Chrome extension built to streamline browser bookmark management, featuring advanced categorization tools. 
+* **[Astra AI](https://github.com/AkshatSingh-90056/AstraAI)** — An advanced, feature-rich artificial intelligence application designed for intelligent task automation and natural language processing. 
+* **[Advanced Bookmark Extension](https://github.com/AkshatSingh-90056/Advanced-bookmarks-extension)** — A lightweight, highly optimized Chrome extension built to streamline browser bookmark management, featuring advanced categorization tools. 
 
 ### Graphics & Simulation Engines
-* **[Fluid Simulator](https://github.com/AkshatSingh-90056)** — A computational physics implementation that calculates and visualizes real-time fluid dynamics using grid-based solvers. 
+* **[Fluid Simulator](https://github.com/AkshatSingh-90056/Fluid-Simulator)** — A computational physics implementation that calculates and visualizes real-time fluid dynamics using grid-based solvers. 
 * **[rayCasterSDL](https://github.com/AkshatSingh-90056)** & **[Traditional-SDL_Ray-Caster](https://github.com/AkshatSingh-90056)** — Custom 3D perspective rendering engines built from scratch using C++ and the Simple DirectMedia Layer (SDL), demonstrating a strong grasp of graphics mathematics and game loops. 
 
 ### ASCII & Computer Vision
-* **[Ascii_WebCam](https://github.com/AkshatSingh-90056)** — A real-time video processing tool that maps live webcam feeds into responsive ASCII characters, utilizing efficient frame-buffer manipulations.
+* **[Ascii_WebCam](https://github.com/AkshatSingh-90056/Ascii_WebCam)** — A real-time video processing tool that maps live webcam feeds into responsive ASCII characters, utilizing efficient frame-buffer manipulations.
 * **[Ascaii_To_Image](https://github.com/AkshatSingh-90056)** — A processing utility that translates standard image pixels into detailed ASCII art representations by analyzing brightness values.
 
 ### Linux & System Automation
-* **[Ubuntu-Toolkit](https://github.com/AkshatSingh-90056)** — A curated suite of Bash scripts designed to automate complex system management and configuration tasks on Ubuntu environments. 
+* **[Ubuntu-Toolkit](https://github.com/AkshatSingh-90056/Ubuntu-Toolkit)** — A curated suite of Bash scripts designed to automate complex system management and configuration tasks on Ubuntu environments. 
 * **[one-click Linux](https://github.com/AkshatSingh-90056)** & **[Nix-Node](https://github.com/AkshatSingh-90056)** — Automated deployment tools and environment utilities built to make UNIX operations highly efficient and accessible. 
 
 ---
