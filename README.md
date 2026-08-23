@@ -43,7 +43,7 @@
 
 ### Graphics & Simulation Engines
 * **[Fluid Simulator](https://github.com/AkshatSingh-90056/Fluid-Simulator)** — A computational physics implementation that calculates and visualizes real-time fluid dynamics using grid-based solvers. 
-* **[rayCasterSDL](https://github.com/AkshatSingh-90056)** & **[Traditional-SDL_Ray-Caster](https://github.com/AkshatSingh-90056)** — Custom 3D perspective rendering engines built from scratch using C++ and the Simple DirectMedia Layer (SDL), demonstrating a strong grasp of graphics mathematics and game loops. 
+* **[Traditional-SDL_Ray-Caster](https://github.com/AkshatSingh-90056/Traditional-SDL-Ray-Caster)** — Custom 3D perspective rendering engines built from scratch using C++ and the Simple DirectMedia Layer (SDL), demonstrating a strong grasp of graphics mathematics and game loops. 
 
 ### ASCII & Computer Vision
 * **[Ascii_WebCam](https://github.com/AkshatSingh-90056/Ascii_WebCam)** — A real-time video processing tool that maps live webcam feeds into responsive ASCII characters, utilizing efficient frame-buffer manipulations.
